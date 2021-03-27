@@ -15,11 +15,11 @@ Its a Flutter app with integration of Medium Blog Feed using RSS2Json API end po
 
 ## 📱 Screenshots
 
-<img height="380px" src="https://user-images.githubusercontent.com/43790152/112730406-2faf3080-8f53-11eb-9963-9b15a06ed9a7.jpeg"> <img height="380px" src="https://user-images.githubusercontent.com/43790152/112730408-3178f400-8f53-11eb-9645-55038f6e7d4a.jpeg">
+<img height="420px" src="https://user-images.githubusercontent.com/43790152/112730406-2faf3080-8f53-11eb-9963-9b15a06ed9a7.jpeg"> <img height="420px" src="https://user-images.githubusercontent.com/43790152/112730408-3178f400-8f53-11eb-9645-55038f6e7d4a.jpeg">
 
 ## 👀 Demo
 
-<img height="380px" src="https://user-images.githubusercontent.com/43790152/112730422-4b1a3b80-8f53-11eb-9027-54f2e4d1c15c.gif">
+<img height="420px" src="https://user-images.githubusercontent.com/43790152/112730422-4b1a3b80-8f53-11eb-9027-54f2e4d1c15c.gif">
 
 ## 🔑 LICENSE
 - This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:medium_blog_app/view/blogFeed.dart';
+import 'package:medium_blog_app/view/splashView.dart';
 
 void main() {
   runApp(MyApp());
@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
       title: 'Medium Blog',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(),
-      home: BlogFeed(),
+      home: SplashView(),
     );
   }
 }
